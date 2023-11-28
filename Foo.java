@@ -3,4 +3,5 @@ public class Foo {
     private int y = 0;
     private int z = 0;
     private int w = 0;
+    private int HenryLipids = 900;
 }
